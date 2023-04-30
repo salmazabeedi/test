@@ -96,5 +96,5 @@ public class Checkbox extends JFrame {
     public static void main(String[] args) {
         new Checkbox();
     }
-
+//comment here
 }
