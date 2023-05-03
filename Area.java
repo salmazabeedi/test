@@ -17,6 +17,9 @@ public class Area {
     public static void main(String[] args) {
         // TODO code application logic here
         area1.getArea(3, 4);
+        //hi
+        
+        //
     }
     
 }
